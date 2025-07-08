@@ -1,0 +1,6 @@
+bd17c710b7a36ed8e8546225615bca2e4f3b03a09da16902f4a7341975fdcb88 *config.buildinfo
+725b9d1129cafa112f499922f855e70dd03e8d31b324699a50b0c19ad10c23fe *feeds.buildinfo
+c717b8ed5eb036414a7560bc496900eb5810d3a0bbcabd01697cc8abbfef567e *openwrt-ramips-mt76x8-device-tl-wr840n-v6.2.manifest
+715fa072daec68e50eeb57a779d170d1f8959e8bc6fbce6d20cc0728bb22641f *openwrt-ramips-mt76x8-tl-wr840n-v6.2-squashfs-sysupgrade.bin
+bda761039162c269f0a2ffe05117dfce84623297e9e3a5fec37869c6e5a7d1d8 *openwrt-ramips-mt76x8-tl-wr840n-v6.2-squashfs-tftp-recovery.bin
+290c29a31fbe80ec18536fd4ca5d2416282d4c4342c91f7611c4843964caaf50 *version.buildinfo
